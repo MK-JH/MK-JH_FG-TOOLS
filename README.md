@@ -6,7 +6,7 @@
 
 شامل:
 
-Dlss Enabler) MK-JH_Dlss FG MOD) ماد فریم جنریشن
+(Dlss Enabler) MK-JH_Dlss FG MOD ماد فریم جنریشن
 
 (Optiscaler) MK-JH_Opti FG MOD ماد فریم جنریشن
 
