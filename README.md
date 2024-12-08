@@ -18,8 +18,17 @@
 
 ویدئو آموزش جامع و کامل استفاده از برنامه
 
+![1](https://github.com/user-attachments/assets/5288fea9-42c9-4452-8da9-74fdc8f2067b)
+![2](https://github.com/user-attachments/assets/abcddf5e-0f83-4264-9523-e941c4b4fa4c)
+![3](https://github.com/user-attachments/assets/9a7c6b88-2035-464f-9a1f-3ba67e87acdd)
+![photo_2024-12-09_01-31-26](https://github.com/user-attachments/assets/e6beb12b-8397-4189-a72f-f847c2e41ba6)
+![photo_2024-12-09_01-31-04](https://github.com/user-attachments/assets/c1bf26de-fb04-495c-a26f-b2bd989535a9)
+![photo_2024-12-09_01-31-18](https://github.com/user-attachments/assets/98e7791c-aa51-4c34-b159-b17964b9d226)
+![photo_2024-12-09_01-31-12](https://github.com/user-attachments/assets/cda6b430-6b51-46cd-b032-f5e05644d157)
+![photo_2024-12-09_01-31-23](https://github.com/user-attachments/assets/25a21075-e040-46d4-a99a-c09fbc20b047)
 
-ورژن:1.0
+
+
 
 لطفا برای حمایت از من کانال تلگرام مارو به دوستانتون هم معرفی کنید
 
@@ -42,6 +51,3 @@ Artur Graniszewski
 cdozdil
 
 FakeMichau
-آموزش استفاده از برنامه:
-
-ویدئو جامع و کامل استفاده از برنامه داخل ماد موجود و بعد از نصب ماد داخل مسیری که ماد نصب شده قرار میگیره
