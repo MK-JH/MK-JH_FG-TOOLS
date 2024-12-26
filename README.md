@@ -35,6 +35,10 @@ https://t.me/MKJH_APPS
 
 https://t.me/mkjh_Archive
 
+حمایت مالی از پروژه های من:
+
+https://daramet.com/MK_JH
+
 ارتباط با من:
 
 https://t.me/PersianPatchDeveloper
