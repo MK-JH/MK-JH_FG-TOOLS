@@ -41,8 +41,7 @@ https://daramet.com/MK_JH
 
 ارتباط با من:
 
-https://t.me/PersianPatchDeveloper
-
+https://t.me/mkjhs_bot
 دوستانی که تلگرام پریمیوم دارن لطفا برای حمایت از این پروژه کانال مارو بوست کنید
 
 https://t.me/boost/MKJH_APPS
