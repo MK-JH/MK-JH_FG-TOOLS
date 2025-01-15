@@ -11,6 +11,8 @@
 
 (Uniscaler) MK-JH_Unis FG MOD ماد فریم جنریشن
 
+ماد فریم جنریشن Nukem مخصوص کارتهای RTX
+
 (Lossless Scaling) MK-JH_LosslessScaling-Latency-Free برنامه
 
 ابزار تست تاخییر ورودی سیستم
