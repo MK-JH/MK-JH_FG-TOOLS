@@ -19,14 +19,16 @@
 
 ویدئو آموزش جامع و کامل استفاده از برنامه
 
-![1](https://github.com/user-attachments/assets/5288fea9-42c9-4452-8da9-74fdc8f2067b)
-![2](https://github.com/user-attachments/assets/abcddf5e-0f83-4264-9523-e941c4b4fa4c)
-![3](https://github.com/user-attachments/assets/9a7c6b88-2035-464f-9a1f-3ba67e87acdd)
-![photo_2024-12-09_01-31-26](https://github.com/user-attachments/assets/e6beb12b-8397-4189-a72f-f847c2e41ba6)
-![photo_2024-12-09_01-31-04](https://github.com/user-attachments/assets/c1bf26de-fb04-495c-a26f-b2bd989535a9)
-![photo_2024-12-09_01-31-18](https://github.com/user-attachments/assets/98e7791c-aa51-4c34-b159-b17964b9d226)
-![photo_2024-12-09_01-31-12](https://github.com/user-attachments/assets/cda6b430-6b51-46cd-b032-f5e05644d157)
-![photo_2024-12-09_01-31-23](https://github.com/user-attachments/assets/25a21075-e040-46d4-a99a-c09fbc20b047)
+![1](https://github.com/user-attachments/assets/9df1f062-341a-41d8-997e-2abab0b5be9d)
+![2](https://github.com/user-attachments/assets/ebdbde4c-08a6-4f3f-8d74-6e9929604b54)
+![3](https://github.com/user-attachments/assets/16ea712c-e1bf-4914-9b5d-e135884eaafe)
+![4](https://github.com/user-attachments/assets/c995f514-4307-4885-9a00-1d09bde88236)
+![5](https://github.com/user-attachments/assets/e13219aa-2631-4615-922f-ff9e8a69b219)
+![6](https://github.com/user-attachments/assets/404c0073-851e-4346-bd02-c55b972c5613)
+![Red Dead Redemption 2_2025 01 23-16 50](https://github.com/user-attachments/assets/87038875-b71b-4388-af19-e56bb7267719)
+![Fort Solis_2025 01 23-20 22](https://github.com/user-attachments/assets/6562ee81-5fd4-4fd9-bfa2-b8352354efae)
+
+
 
 
 
